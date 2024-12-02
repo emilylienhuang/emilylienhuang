@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 Reach me: [email](mailto:eng@uccs.edu)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love optimizing algorithms, particularly in C++ and Python, and enjoy solving challenging problems on LeetCode. In my free time, I enjoy logic-based board games like Codenames and Azul—because algorithms are everywhere, even in fun! 🎲
-- 🛠️ Problem Solver: My mantra is: “No bug is too small, and no challenge is too big!”
+- 🛠️ Problem Solver: I'm a thorough debugger. My mantra is: “What do the logs say today?”
 
   ## Languages and Tools
 
