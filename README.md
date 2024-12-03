@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [algorithms](https://github.com/emilylienhuang/AlgorithmExplorationsPartOne) and [graph theory](https://github.com/emilylienhuang/GroupThink)
 - 📫 Reach me: [email](mailto:eng@uccs.edu)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love optimizing algorithms, particularly in C++ and Python, and enjoy solving challenging problems on LeetCode. In my free time, I enjoy logic-based board games like Codenames and Azul—because algorithms are everywhere, even in fun! 🎲
+- ⚡ Fun fact: I love optimizing algorithms, particularly in C++ and Python, and enjoy solving challenging problems on LeetCode. In my free time, I enjoy logic-based board games like CrossClues, Catan, and Splendor—because algorithms are everywhere, even in fun! 🎲
 - 🛠️ Problem Solver: I'm a thorough debugger. My mantra is: “What do the logs say today?”
 
   ## Languages and Tools
