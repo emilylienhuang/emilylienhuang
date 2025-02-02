@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a [website portfolio](https://github.com/emilylienhuang/WebsitePortfolio), algorithmic game optimization research, and open-source software contributions. For privacy and academic integrity purposes, some of these repositories are not publicly available, but contact me, and I'd love to share my project with you!
 - 🌱 I’m currently learning advanced algorithms, software maintenance, hacking, and algorithmic coding challenges.
 - 💬 Ask me about [algorithms](https://github.com/emilylienhuang/AlgorithmExplorationsPartOne) and [graph theory](https://github.com/emilylienhuang/GroupThink)
-- 📫 Reach me: [email](mailto:eng@uccs.edu)
+- 📫 Reach me: [email](mailto:emilylienhuang@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love optimizing algorithms, particularly in C++ and Python, and enjoy solving challenging problems on LeetCode. In my free time, I enjoy logic-based board games like CrossClues, Catan, and Splendor—because algorithms are everywhere, even in fun! 🎲
 - 🛠️ Problem Solver: I'm a thorough debugger. My mantra is: “What do the logs say today?”
