@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a [website portfolio](https://github.com/emilylienhuang/WebsitePortfolio), algorithmic game optimization research, and open-source software contributions. For privacy and academic integrity purposes, some of these repositories are not publicly available, but contact me, and I'd love to share my project with you!
+- 🔭 I’m currently working on a [website portfolio](https://github.com/emilylienhuang/WebsitePortfolio), algorithmic game optimization research, and algorithmic optimization task scheduling applications. For privacy and academic integrity purposes, some of these repositories are not publicly available, but contact me, and I'd love to share my project with you!
 - 🌱 I’m currently learning advanced algorithms, software maintenance, hacking, and algorithmic coding challenges.
 - 💬 Ask me about [algorithms](https://github.com/emilylienhuang/AlgorithmExplorationsPartOne) and [graph theory](https://github.com/emilylienhuang/GroupThink)
 - 📫 Reach me: [email](mailto:emilylienhuang@gmail.com)
